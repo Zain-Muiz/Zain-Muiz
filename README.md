@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--### Hey There! -->
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Zain Muiz </br>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Zain Muiz ! </br>
 ### About Me 🚀
 👨‍💻  I’m a tech enthusiast from <b>Mangalore, India <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="18"/> </br>
 
